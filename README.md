@@ -1,1 +1,1 @@
-# Anaconda-Python-Practicee
+# Anaconda-Python-Exercises
